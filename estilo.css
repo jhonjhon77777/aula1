@@ -1,4 +1,42 @@
-h1{
-  text-align: center;
-  color: seagreen;  
+body{
+    background-color: aquamarine;
+}
+#total{
+    width:1000px;
+  height: auto;
+  margin: auto;
+}
+
+#topo{
+    width:1000px;
+  height: 100px;
+  float: left;
+background-color: aqua;
+}
+#banner{
+    width:1000px;
+  height: 300px;
+  float: left;
+}
+#esquerda{
+    width:450px;
+    height: 300px;
+    float: left;
+    background-color: brown;
+    margin-top: 20px;
+}
+#direita{
+    width:450px;
+    height: 300px;
+    float: right;
+    background-color: darkmagenta;
+    margin-top: 20px;
+}
+
+#rodape{
+    width:1000px;
+  height: 100px;
+  float: left;
+  background-color: lawngreen;
+  clear: both;
 }
